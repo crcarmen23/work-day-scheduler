@@ -12,9 +12,9 @@ N/A
 
 The user can enter an event or task into the scheduler and push the blue button on the right side of the screen to save the task. The user can view their events for the day in a color-coded format to easily tell which events are coming up soon and which events have passed. 
 
-[Link to Work Day Scheduler webpage](https://crcarmen23.github.io/nyc-quiz/)
+[Link to Work Day Scheduler webpage](https://crcarmen23.github.io/work-day-scheduler/)
 
-![screenshot](assets/screenshot.png)
+![screenshot](/work-day-scheduler/screenshot.png)
 
 
 ## Credits
