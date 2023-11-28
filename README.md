@@ -14,7 +14,7 @@ The user can enter an event or task into the scheduler and push the blue button 
 
 [Link to Work Day Scheduler webpage](https://crcarmen23.github.io/work-day-scheduler/)
 
-![screenshot](/work-day-scheduler/screenshot.png)
+![screenshot](./screenshot.png)
 
 
 ## Credits
